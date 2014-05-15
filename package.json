@@ -1,0 +1,28 @@
+{
+  "name": "trireme-xslt",
+  "version": "1.0.0",
+  "description": "An XSLT module optimized for the Trireme project",
+  "main": "xslt.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apigee/trireme-xslt.git"
+  },
+  "keywords": [
+    "XSLT",
+    "Trireme",
+    "Java",
+    "XML"
+  ],
+  "author": "Greg Brail <greg@apigee.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apigee/trireme-xslt/issues"
+  },
+  "homepage": "https://github.com/apigee/trireme-xslt",
+  "dependencies": {
+      "node_xslt": "0.x.x"
+  }
+}
